@@ -7,3 +7,4 @@ We used Multi-domain learning approach (MDL) where multiple domains are differen
 
 ## Result for different symbol rates (SR) scenerios.
 ![Different SR scenerios for 6 dBm](https://user-images.githubusercontent.com/96380861/187230486-96767673-b760-4272-ba53-c004f7687960.png)
+![Different SR scenerios for 8 dBm](https://user-images.githubusercontent.com/96380861/187230847-cc7dbddc-dd5a-4e26-8ac5-6879a40397dd.png)
