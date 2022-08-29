@@ -1,4 +1,4 @@
-# Nonlinearity-MDL
+# Multi-domain Learning for Neural Network-Based Equalizers in a Coherent Optical Transmission System: Solving the Flexibility Problem
 
 This repository contains source codes for training and testing Deep Neural Network (DNN) model. 
 This models were focused on mitigating nonlinearity in optical signal propagation.
