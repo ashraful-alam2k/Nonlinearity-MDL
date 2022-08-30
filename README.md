@@ -3,6 +3,7 @@
 This repository contains source codes and saved models for training and testing Deep Neural Network (DNN) model. 
 This models were focused on mitigating nonlinearity in optical signal propagation.
 We used Multi-domain learning approach (MDL) where multiple domains are different span/power/symbol rate in the transmission.
+
 N.B. channel_model refers to module used for signal propagation with Manakov equation in 1 km step.
 
 The trained models and source codes can be found in the scenario specific folders.
