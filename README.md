@@ -7,8 +7,10 @@ We used Multi-domain learning approach (MDL) where multiple domains are differen
 N.B. channel_model refers to module used for signal propagation with Manakov equation in 1 km step.
 
 
-## Results for different symbol rates (SR) scenerios.
-![Different SR scenerios for 6 dBm](https://user-images.githubusercontent.com/96380861/187230486-96767673-b760-4272-ba53-c004f7687960.png)
-![Different SR scenerios for 8 dBm](https://user-images.githubusercontent.com/96380861/187230847-cc7dbddc-dd5a-4e26-8ac5-6879a40397dd.png)
+## Results for different symbol rates (SR) scenarios.
+![Different SR scenarios for 6 dBm](https://user-images.githubusercontent.com/96380861/187230486-96767673-b760-4272-ba53-c004f7687960.png)
+![Different SR scenarios for 8 dBm](https://user-images.githubusercontent.com/96380861/187230847-cc7dbddc-dd5a-4e26-8ac5-6879a40397dd.png)
 
-## Results for different span numbers scenerios.
+## Results for different span numbers scenarios.
+![Different span numbers scenarios for 6 dBm](https://user-images.githubusercontent.com/96380861/187390130-1489d0e3-ba8d-47dd-a8e7-130488943d7c.png)
+![Different span numbers scenarios for 8 dBm](https://user-images.githubusercontent.com/96380861/187390138-05cee1ed-75d1-426d-8fa6-38c2718e4f08.png)
