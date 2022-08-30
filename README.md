@@ -3,9 +3,15 @@
 This repository contains source codes and saved models for training and testing Deep Neural Network (DNN) model. 
 This models were focused on mitigating nonlinearity in optical signal propagation.
 We used Multi-domain learning approach (MDL) where multiple domains are different span/power/symbol rate in the transmission.
-
 N.B. channel_model refers to module used for signal propagation with Manakov equation in 1 km step.
 
+The trained models and source codes can be found in the scenario specific folders.
+Please follow the below mentioned steps to install the required packages and libraries beforehand. Then, run the codes without hassle.
+### Install 
+
+    #python3.7
+    pip install --upgrade pip
+    pip install -r requirements.txt
 
 ## Results for different symbol rates (SR) scenarios.
 ![Different SR scenarios for 6 dBm](https://user-images.githubusercontent.com/96380861/187230486-96767673-b760-4272-ba53-c004f7687960.png)
