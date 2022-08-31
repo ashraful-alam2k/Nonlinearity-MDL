@@ -26,6 +26,8 @@ Please follow the below mentioned steps to install the required modules and pack
 
 
 ## Results for different launch power scenarios.
+![MicrosoftTeams-image (9)](https://user-images.githubusercontent.com/96380861/187741228-99cb1877-e737-4b25-92b5-f88d5ec92688.png)
 
 
 ## Results for different span and power scenarios.
+![MicrosoftTeams-image (8)](https://user-images.githubusercontent.com/96380861/187741176-5ffaa023-8aad-47a8-aefc-c902b19ea2d1.png)
