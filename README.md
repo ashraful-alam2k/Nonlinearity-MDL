@@ -23,3 +23,9 @@ Please follow the below mentioned steps to install the required modules and pack
 ## Results for different span numbers scenarios.
 ![Different span numbers scenarios for 6 dBm](https://user-images.githubusercontent.com/96380861/187390130-1489d0e3-ba8d-47dd-a8e7-130488943d7c.png)
 ![Different span numbers scenarios for 8 dBm](https://user-images.githubusercontent.com/96380861/187390138-05cee1ed-75d1-426d-8fa6-38c2718e4f08.png)
+
+
+## Results for different launch power scenarios.
+
+
+## Results for different span and power scenarios.
